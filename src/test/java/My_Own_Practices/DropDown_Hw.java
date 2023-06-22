@@ -61,6 +61,7 @@ public class DropDown_Hw extends TestBase {
     @Test
     public void test03() {
         //1. yeni bir sekme açarak amazon anasayfaya gidin
+        //
         
         //2. dropdown’dan bebek bölümüne secin
         //3. bebek puset aratıp bulundan sonuç sayısını yazdırın
